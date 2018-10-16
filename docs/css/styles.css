@@ -10,3 +10,11 @@
 #box4{
     background-color: forestgreen;
 }
+.box{
+    height: 50px;
+    width: 36px;
+    border: black 1px solid;
+    margin-top: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
